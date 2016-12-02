@@ -13,7 +13,7 @@
     ],
     "require": {
         "ext-gd": "*",
-        "hhvm": "3.5.1",
+        "php": "~7.0",
 
         "WordPress/WordPress": "*",
 
@@ -42,10 +42,10 @@
             "type": "package",
             "package": {
                 "name": "WordPress/WordPress",
-                "version": "4.6.1",
+                "version": "4.5.4",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/WordPress/WordPress/archive/4.6.1.zip"
+                    "url": "https://github.com/WordPress/WordPress/archive/4.5.4.zip"
                 }
             }
         },
