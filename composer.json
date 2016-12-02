@@ -26,6 +26,10 @@
         "wpackagist-plugin/jetpack": "~4",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
 
+        "wpackagist-theme/codilight-lite": "1.0.7",
+        "wpackagist-theme/islemag": "1.1.0",
+        "wpackagist-theme/vmag": "1.0.7",
+
         "predis/predis": "~1.0",
         "wp-cli/wp-cli": "~0.23"
     },
