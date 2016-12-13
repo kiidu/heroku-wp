@@ -25,6 +25,7 @@
         "wpackagist-plugin/authy-two-factor-authentication": "~2",
         "wpackagist-plugin/jetpack": "~4",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
+        "yoast/wordpress-seo": "*",
 
         "wpackagist-theme/codilight-lite": "1.0.7",
         "wpackagist-theme/islemag": "1.1.0",
