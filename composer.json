@@ -26,6 +26,7 @@
         "wpackagist-plugin/jetpack": "~4",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
         "yoast/wordpress-seo": "*",
+        "wpackagist-plugin/fb-instant-articles": "3.2.2",
 
         "wpackagist-theme/codilight-lite": "1.0.7",
         "wpackagist-theme/islemag": "1.1.0",

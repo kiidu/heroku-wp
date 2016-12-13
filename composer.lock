@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f6e0b289308d8061b83b9afe44b585f9",
-    "content-hash": "bf91c9af6ecac0fff41d52d82a649285",
+    "hash": "484d2460c4dff7799a438d713724c17e",
+    "content-hash": "f97d52f6e94126fcd1e4cb9fb8139282",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -1730,6 +1730,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/authy-two-factor-authentication/"
+        },
+        {
+            "name": "wpackagist-plugin/fb-instant-articles",
+            "version": "3.2.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/fb-instant-articles/",
+                "reference": "tags/3.2.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/fb-instant-articles.3.2.2.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/fb-instant-articles/"
         },
         {
             "name": "wpackagist-plugin/jetpack",
