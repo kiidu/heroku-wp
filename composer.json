@@ -25,7 +25,7 @@
         "wpackagist-plugin/authy-two-factor-authentication": "~2",
         "wpackagist-plugin/jetpack": "~4",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
-        "yoast/wordpress-seo": "*",
+        "wpackagist-plugin/wordpress-seo": "4.0",
         "wpackagist-plugin/fb-instant-articles": "3.2.2",
 
         "wpackagist-theme/codilight-lite": "1.0.7",
