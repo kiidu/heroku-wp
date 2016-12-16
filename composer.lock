@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "9c533859db3d369c8ffc5e84fba7f103",
-    "content-hash": "82c6909341fc0aa7809ec63f4de21e93",
+    "hash": "1b7733998fb09b079793c22cad916a27",
+    "content-hash": "0e077497f20408a1c09f0f6212d67ac8",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -1893,6 +1893,26 @@
             },
             "type": "wordpress-theme",
             "homepage": "https://wordpress.org/themes/islemag/"
+        },
+        {
+            "name": "wpackagist-theme/virtue",
+            "version": "2.8.4",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/virtue/",
+                "reference": "2.8.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/virtue.2.8.4.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/virtue/"
         },
         {
             "name": "wpackagist-theme/vmag",
