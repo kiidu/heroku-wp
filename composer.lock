@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6cab7556f97b543147d77ccb08bf4823",
-    "content-hash": "f70066dba758f3469a6c767c28df3597",
+    "hash": "ae5f10d45a1c866a16675746c4ca6cba",
+    "content-hash": "ca36319bcc949056844f374df29ef15c",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -1773,6 +1773,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/jetpack/"
+        },
+        {
+            "name": "wpackagist-plugin/multilingual-press",
+            "version": "2.4.8",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/multilingual-press/",
+                "reference": "tags/2.4.8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/multilingual-press.2.4.8.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/multilingual-press/"
         },
         {
             "name": "wpackagist-plugin/redis-cache",
