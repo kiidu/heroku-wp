@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1b7733998fb09b079793c22cad916a27",
-    "content-hash": "0e077497f20408a1c09f0f6212d67ac8",
+    "hash": "6cab7556f97b543147d77ccb08bf4823",
+    "content-hash": "f70066dba758f3469a6c767c28df3597",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -1833,6 +1833,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
+        },
+        {
+            "name": "wpackagist-plugin/virtue-toolkit",
+            "version": "3.8",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/virtue-toolkit/",
+                "reference": "tags/3.8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/virtue-toolkit.3.8.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/virtue-toolkit/"
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
