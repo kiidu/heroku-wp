@@ -21,7 +21,6 @@
         "wpackagist-plugin/redis-cache": "~1",
         "wpackagist-plugin/secure-db-connection": "~1",
 
-        "humanmade/s3-uploads": "~1",
         "wpackagist-plugin/authy-two-factor-authentication": "~2",
         "wpackagist-plugin/jetpack": "~4",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
@@ -32,7 +31,6 @@
         "wpackagist-plugin/multilingual-press": "2.4.8",
         "wpackagist-plugin/amazon-web-services": "1.0.1",
         "wpackagist-plugin/amazon-s3-and-cloudfront": "1.1.4",
-        "wpackagist-plugin/enable-media-replace": "3.0.5",
 
         "wpackagist-theme/codilight-lite": "1.0.7",
         "wpackagist-theme/islemag": "1.1.0",

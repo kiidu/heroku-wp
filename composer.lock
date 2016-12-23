@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "cd9b5140bfa3e7fd396b9dded364fcb4",
-    "content-hash": "933a3bca30a014127fc9fb71d296eb74",
+    "hash": "3b82a9fb970cd7dd730cbd26f61a6a55",
+    "content-hash": "7e273710e5a6a5f407efe554dcea73c7",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -412,42 +412,6 @@
                 "validator"
             ],
             "time": "2016-09-28 07:17:45"
-        },
-        {
-            "name": "humanmade/s3-uploads",
-            "version": "v1.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/humanmade/S3-Uploads.git",
-                "reference": "9cb765284e7407d7ad2309a64dd8e5e13db258b2"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/humanmade/S3-Uploads/zipball/9cb765284e7407d7ad2309a64dd8e5e13db258b2",
-                "reference": "9cb765284e7407d7ad2309a64dd8e5e13db258b2",
-                "shasum": ""
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "GPL-2.0+"
-            ],
-            "authors": [
-                {
-                    "name": "Human Made Limited",
-                    "email": "support@humanmade.co.uk",
-                    "homepage": "http://hmn.md/"
-                }
-            ],
-            "description": "WordPress plugin to store uploads on S3",
-            "homepage": "https://github.com/humanmade/S3-Uploads",
-            "keywords": [
-                "wordpress"
-            ],
-            "time": "2016-04-29 10:00:39"
         },
         {
             "name": "justinrainbow/json-schema",
@@ -1773,26 +1737,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/authy-two-factor-authentication/"
-        },
-        {
-            "name": "wpackagist-plugin/enable-media-replace",
-            "version": "3.0.5",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/enable-media-replace/",
-                "reference": "tags/3.0.5"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/enable-media-replace.3.0.5.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/enable-media-replace/"
         },
         {
             "name": "wpackagist-plugin/fb-instant-articles",
