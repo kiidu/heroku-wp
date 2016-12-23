@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6025afca26e5576434f057011d649a2a",
-    "content-hash": "baa48c2cb633b41f32dead96ce1738ac",
+    "hash": "cd9b5140bfa3e7fd396b9dded364fcb4",
+    "content-hash": "933a3bca30a014127fc9fb71d296eb74",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -1773,6 +1773,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/authy-two-factor-authentication/"
+        },
+        {
+            "name": "wpackagist-plugin/enable-media-replace",
+            "version": "3.0.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/enable-media-replace/",
+                "reference": "tags/3.0.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/enable-media-replace.3.0.5.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/enable-media-replace/"
         },
         {
             "name": "wpackagist-plugin/fb-instant-articles",
