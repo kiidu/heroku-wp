@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b5c76c5d1e3229851b52e3751f572058",
-    "content-hash": "8c51bc3d5fd0ffa9c40f4dee0edf3085",
+    "hash": "6025afca26e5576434f057011d649a2a",
+    "content-hash": "baa48c2cb633b41f32dead96ce1738ac",
     "packages": [
         {
             "name": "WordPress/WordPress",
@@ -1733,6 +1733,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/amazon-s3-and-cloudfront/"
+        },
+        {
+            "name": "wpackagist-plugin/amazon-web-services",
+            "version": "1.0.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/amazon-web-services/",
+                "reference": "tags/1.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/amazon-web-services.1.0.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/amazon-web-services/"
         },
         {
             "name": "wpackagist-plugin/authy-two-factor-authentication",

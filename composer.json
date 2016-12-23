@@ -30,6 +30,7 @@
         "wpackagist-plugin/virtue-toolkit": "3.8",
         "wpackagist-plugin/sumome": "1.22",
         "wpackagist-plugin/multilingual-press": "2.4.8",
+        "wpackagist-plugin/amazon-web-services": "1.0.1",
         "wpackagist-plugin/amazon-s3-and-cloudfront": "1.1.4",
 
         "wpackagist-theme/codilight-lite": "1.0.7",
