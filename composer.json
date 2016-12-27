@@ -31,6 +31,7 @@
         "wpackagist-plugin/multilingual-press": "2.4.8",
         "wpackagist-plugin/amazon-web-services": "1.0.1",
         "wpackagist-plugin/amazon-s3-and-cloudfront": "1.1.4",
+        "wpackagist-plugin/simple-tags": "2.4.6",
 
         "wpackagist-theme/codilight-lite": "1.0.7",
         "wpackagist-theme/islemag": "1.1.0",
